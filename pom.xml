@@ -34,7 +34,7 @@
 				<configuration>
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
-						<muleVersion>4.4.0{app.runtime}</muleVersion>
+						<muleVersion>4.4.0</muleVersion>
 						<username>gopi114</username>
 						<password>Viratian@1234</password>
 						<applicationName>pipelines</applicationName>
