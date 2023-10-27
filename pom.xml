@@ -34,14 +34,14 @@
 				<configuration>
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
-						<muleVersion>${app.runtime}</muleVersion>
-						<username>gopi113</username>
+						<muleVersion>4.4.0{app.runtime}</muleVersion>
+						<username>gopi114</username>
 						<password>Viratian@1234</password>
 						<applicationName>pipelines</applicationName>
 						<environment>Sandbox</environment>
 						<region>us-east-2</region>
 						<workers>1</workers>
-						<workerType></workerType>
+						<workerType>MICRO</workerType>
 						<properties>
 							<key>value</key>
 						</properties>
